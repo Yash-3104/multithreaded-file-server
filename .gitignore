@@ -1,0 +1,56 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# SQLite database
+*.db
+*.sqlite3
+
+# Compiled executables
+*.exe
+
+# Temporary files
+*.tmp
+
+# PyInstaller / cx_Freeze
+*.spec
+
+# Generated icons/images
+*.ico
+
+# Environment variables
+.env
+
+# Test/cache folders
+.pytest_cache/
+.mypy_cache/
+
+# Uploaded/downloaded files (optional)
+uploads/
+downloads/
+received_files/
+
+# ZIP files
+*.zip
